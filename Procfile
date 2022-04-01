@@ -1,1 +1,1 @@
-web: gunicorn iBiteWeb.wsgi --log-file -
+web: gunicorn iBiteApp.wsgi --log-file -
