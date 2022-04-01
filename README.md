@@ -1,3 +1,3 @@
 # iBiteApp
 
-Online Shop app built with django python.
+Online Shop web app built with django python.
