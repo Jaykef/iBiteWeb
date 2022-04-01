@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '2jek@8e$aes+^$gkmm32j1fbr60s!xbm0rxrgd+$c^esrakx!$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['ibite.herokuapp.com', '127.0.0.1']
 
