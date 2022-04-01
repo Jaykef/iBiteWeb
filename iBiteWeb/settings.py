@@ -25,7 +25,7 @@ SECRET_KEY = '2jek@8e$aes+^$gkmm32j1fbr60s!xbm0rxrgd+$c^esrakx!$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ibite.herokuapp.com']
+ALLOWED_HOSTS = ['ibite.herokuapp.com', 'localhost']
 
 
 # Application definition
