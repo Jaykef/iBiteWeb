@@ -1,6 +1,6 @@
 # iBiteApp
 
-Online Shop web app built with django and vue (work in progress)
+Online Shop web app built with django (work in progress)
 
 ![Hero](https://github.com/Jaykef/iBiteWeb/blob/main/screenshots/1.png)
 ![Hero](https://github.com/Jaykef/iBiteWeb/blob/main/screenshots/2.png)
